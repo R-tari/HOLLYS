@@ -2,7 +2,7 @@
 
 html,head,title,body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,table,tr,td,thead,tbody,tfoot,th,div,span,
 section,header,img,a,br,hr,pre,strong,form,label,legend,input,select,textarea,
-fieldset,figure,figcaption,footer,aside,address,article,audio,video,picture,option,em
+fieldset,figure,figcaption,footer,aside,address,article,audio,video,picture,option,em,iframe,::before,::after
 {
     box-sizing:border-box;
     margin:0;
